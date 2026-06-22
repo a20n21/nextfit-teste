@@ -1,0 +1,15 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+
+*.tfvars
+*.tfvars.json
+.env
+.env.*
+kubeconfig
+.vscode/
+.idea/
+.DS_Store
+
+
